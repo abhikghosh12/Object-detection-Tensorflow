@@ -26,7 +26,7 @@ from object_detection.core import standard_fields as fields
 from object_detection.protos import train_pb2
 
 
-NUMBER_OF_CLASSES = 2
+NUMBER_OF_CLASSES = 1
 
 
 def get_input_function():
